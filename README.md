@@ -62,4 +62,4 @@ dtype: float64
 ## Summary
 - PyBer would likely benefit from increasing their marketing budget so they have more customers. The market is so oversauturated that many of the drivers are not receiving work, thus gaining more riders should be a priority.
 - Putting a freeze on the hiring of new employees in Urban cities until the customer base is more proportionate to the number of available drivers could increase profits as well. Each driver needs to have a minimum of 1 ride during each quarter.
-- It would be helpful to collect additionaly data on Rural cities. It could provide insight on why the fares are consistently so low or why there seems to be little to no demand for ride-share services.
+- It would be helpful to collect additional data on Rural cities. It could provide insight on the reason fares are consistently so low or why there seems to be little to no demand for ride-share services.
